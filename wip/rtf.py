@@ -5,11 +5,12 @@ _DEST = {'fonttbl', 'colortbl', 'stylesheet', 'info', 'pict', 'header', 'footer'
          'footerr', 'headerf', 'footerf', 'listtable', 'listoverridetable', 'rsidtbl', 'latentstyles', 'datastore',
          'themedata', 'colorschememapping', 'xmlnstbl', 'generator', 'object', 'fldinst', 'filetbl', 'revtbl',
          'pgdsctbl', 'operator', 'author', 'title', 'nonshppict', 'footnote', 'listtext', 'pntext', 'pntxta', 'pntxtb',
-         'mmathPr', 'wgrffmtfilter', 'xe', 'tc', 'bkmkstart', 'bkmkend', 'shpinst', 'sp'}
+         'mmathPr', 'wgrffmtfilter', 'xe', 'tc', 'bkmkstart', 'bkmkend', 'shpinst', 'sp', 'falt', 'panose',
+         'pnseclvl', 'leveltext', 'levelnumbers', 'company', 'creatim', 'revtim', 'printim', 'buptim'}
 _SPECIAL = {'par': '\n', 'line': '\n', 'sect': '\n', 'page': '\n', 'cell': '\t', 'row': '\n', 'tab': '\t',
             'emdash': '\u2014', 'endash': '\u2013', 'lquote': '\u2018', 'rquote': '\u2019', 'ldblquote': '\u201c',
-            'rdblquote': '\u201d', 'bullet': '\u2022', '~': '\u00a0', '_': '-', '-': ''}
-_TOK = re.compile(r'\([a-zA-Z]+)(-?\d+)? ?|\\'([0-9a-fA-F]{2})|\(.)|([{}])|(\r\n|\n|\r)|([^\{}\r\n]+)', re.S)
+            'rdblquote': '\u201d', 'bullet': '\u2022'}
+_TOK = re.compile(r"\\([a-zA-Z]+)(-?\d+)? ?|\\'([0-9a-fA-F]{2})|\\(.)|([{}])|(\r\n|\n|\r)|([^\\{}\r\n]+)", re.S)
 
 
 def to_text(raw: bytes) -> str:
@@ -22,22 +23,22 @@ def to_text(raw: bytes) -> str:
         if hexbuf:
             out.append(hexbuf.decode('cp1252', 'replace'))
             hexbuf.clear()
-    first_star = False
     for m in _TOK.finditer(s):
         word, arg, hx, ch, brace, nl, text = m.groups()
         if brace == '{':
-            flush(); stack.append((ignorable, uc)); first_star = True; continue
+            flush(); stack.append((ignorable, uc)); skip = 0; continue
         if brace == '}':
             flush()
             if stack:
                 ignorable, uc = stack.pop()
-            first_star = False; continue
+            skip = 0; continue
         if nl:
             continue
-        if skip and (text or hx or ch):
+        if skip and (text or hx or ch or word):
             if text:
                 n = min(skip, len(text)); skip -= n; text = text[n:]
-                if not text: continue
+                if not text:
+                    continue
             else:
                 skip -= 1; continue
         if ch == '*':
@@ -62,7 +63,7 @@ def to_text(raw: bytes) -> str:
         if ch:
             flush()
             if not ignorable:
-                out.append(_SPECIAL.get(ch, ch) if ch in '~_-' else ch)
+                out.append({'~': '\u00a0', '_': '-', '-': ''}.get(ch, ch))
             continue
         if text:
             flush()
@@ -70,6 +71,7 @@ def to_text(raw: bytes) -> str:
                 out.append(text)
     flush()
     return ''.join(out)
+
 
 if __name__ == '__main__':
     import sys
