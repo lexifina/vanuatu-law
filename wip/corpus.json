@@ -1,0 +1,578 @@
+{
+ "country": {
+  "code": "VU",
+  "name": "Vanuatu",
+  "slug": "vanuatu",
+  "lang": "en",
+  "tz": "Pacific/Efate",
+  "future_branch": "future",
+  "publisher": {
+   "name": "Pacific Islands Legal Information Institute (PacLII)",
+   "email": "paclii@paclii.invalid"
+  },
+  "default_in_force_rule": {
+   "text": "Interpretation Act [Cap 132]: an Act commences on publication in the Gazette unless it provides otherwise (to verify)",
+   "source": "http://www.paclii.org/vu/legis/consol_act/ia138/"
+  },
+  "licence_note": "Source: PacLII (www.paclii.org), Laws of the Republic of Vanuatu Consolidated Edition 2006, read from Internet Archive captures."
+ },
+ "sources": [
+  {
+   "name": "PacLII Vanuatu Consolidated Legislation 2006, via Internet Archive",
+   "url": "http://www.paclii.org/vu/legis/consol_act/",
+   "retrieved": "2026-10-29",
+   "requests": 1,
+   "licence": "PacLII free access; legislation text is public law",
+   "notes": "Read only through web.archive.org id_ captures, pinned by timestamp."
+  }
+ ],
+ "laws": {
+  "act-1980-10": {
+   "label": "Act 10 of 1980",
+   "title": "Constitution First Amendment Act 1980",
+   "kind": "law",
+   "enacted": null,
+   "published": null,
+   "url": null,
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "act-1981-15": {
+   "label": "Act 15 of 1981",
+   "title": "Constitution Second Amendment Act 1981",
+   "kind": "law",
+   "enacted": null,
+   "published": null,
+   "url": null,
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "act-1983-20": {
+   "label": "Act 20 of 1983",
+   "title": "Constitution Third Amendment Act 1983",
+   "kind": "law",
+   "enacted": null,
+   "published": null,
+   "url": null,
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  }
+ },
+ "acts": [
+  {
+   "slug": "constitution",
+   "short": "Constitution",
+   "title": "Constitution of the Republic of Vanuatu",
+   "url": "http://www.paclii.org/vu/legis/consol_act/cotrov406/",
+   "first_law": null,
+   "earlier_laws": [
+    "act-1980-10",
+    "act-1981-15",
+    "act-1983-20"
+   ],
+   "versions": [
+    {
+     "from": "2006-08-31",
+     "source_url": "https://web.archive.org/web/20190826052414id_/http://www.paclii.org/vu/legis/consol_act/cotrov406.rtf",
+     "sha256": "e68b190175d069cba370dd2bcb7365ca83bc960f9716cd9a240357e4c6eeec11",
+     "units": {
+      "preamble": {
+       "label": "Preamble",
+       "kind": "preamble",
+       "text": "# Preamble\nWE, the people of Vanuatu,\nPROUD of our struggle for freedom,\nDETERMINED to safeguard the achievements of this struggle,\nCHERISHING our ethnic, linguistic and cultural diversity,\nMINDFUL at the same time of our common destiny,\nHEREBY proclaim the establishment of the united and free Republic of Vanuatu founded on traditional Melanesian values, faith in God, and Christian principles,\nAND for this purpose give ourselves this Constitution.\nCHAPTER 1 – THE STATE AND SOVEREIGNTY\n"
+      },
+      "art-001": {
+       "label": "Art. 1",
+       "kind": "art",
+       "text": "# Article 1. Republic of Vanuatu\nThe Republic of Vanuatu is a sovereign democratic state.\n"
+      },
+      "art-002": {
+       "label": "Art. 2",
+       "kind": "art",
+       "text": "# Article 2. Constitution supreme law\nThe Constitution is the supreme law of the Republic of Vanuatu.\n"
+      },
+      "art-003": {
+       "label": "Art. 3",
+       "kind": "art",
+       "text": "# Article 3. National and official languages\n(1) The national language of the Republic of Vanuatu is Bislama. The official languages are Bislama, English and French. The principal languages of education are English and French.\n(2) The Republic of Vanuatu shall protect the different local languages which are part of the national heritage, and may declare one of them as a national language.\n"
+      },
+      "art-004": {
+       "label": "Art. 4",
+       "kind": "art",
+       "text": "# Article 4. National sovereignty, the electoral franchise and political parties\n(1) National sovereignty belongs to the people of Vanuatu which they exercise through their elected representatives.\n(2) The franchise is universal, equal and secret. Subject to such conditions or restrictions as may be prescribed by Parliament, every citizen of Vanuatu who is at least 18 years of age shall be entitled to vote.\n(3) Political parties may be formed freely and may contest elections. They shall respect the Constitution and the principles of democracy.\nCHAPTER 2 – FUNDAMENTAL RIGHTS AND DUTIES\nPART I – Fundamental Rights\n"
+      },
+      "art-005": {
+       "label": "Art. 5",
+       "kind": "art",
+       "text": "# Article 5. Fundamental rights and freedoms of the individual\n(1) The Republic of Vanuatu recognises, that, subject to any restrictions imposed by law on non-citizens, all persons are entitled to the following fundamental rights and freedoms of the individual without discrimination on the grounds of race, place of origin, religious or traditional beliefs, political opinions, language or sex but subject to respect for the rights and freedoms of others and to the legitimate public interest in defence, safety, public order, welfare and health –\n(a) life;\n(b) liberty;\n(c) security of the person;\n(d) protection of the law;\n(e) freedom from inhuman treatment and forced labour;\n(f) freedom of conscience and worship;\n(g) freedom of expression;\n(h) freedom of assembly and association;\n(i) freedom of movement;\n(j) protection for the privacy of the home and other property and from unjust deprivation of property;\n(k) equal treatment under the law or administrative action, except that no law shall be inconsistent with this sub-paragraph insofar as it makes provision for the special benefit, welfare, protection or advancement of females, children and young persons, members of under-privileged groups or inhabitants of less developed areas.\n(2) Protection of the law shall include the following –\n(a) everyone charged with an offence shall have a fair hearing, within a reasonable time, by an independent and impartial court and be afforded a lawyer if it is a serious offence;\n(b) everyone is presumed innocent until a court establishes his guilt according to law;\n(c) everyone charged shall be informed promptly in a language he understands of the offence with which he is being charged;\n(d) if an accused does not understand the language to be used in the proceedings he shall be provided with an interpreter throughout the proceedings;\n(e) a person shall not be tried in his absence without his consent unless he makes it impossible for the court to proceed in his presence;\n(f) no-one shall be convicted in respect of an act or omission which did not constitute an offence known to written or custom law at the time it was committed;\n(g) no-one shall be punished with a greater penalty than that which exists at the time of the commission of the offence;\n(h) no person who has been pardoned, or tried and convicted or acquitted, shall be tried again for the same offence or any other offence of which he could have been convicted at his trial\n"
+      },
+      "art-006": {
+       "label": "Art. 6",
+       "kind": "art",
+       "text": "# Article 6. Enforcement of fundamental rights\n(1) Anyone who considers that any of the rights guaranteed to him by the Constitution has been, is being or is likely to be infringed may, independently of any other possible legal remedy, apply to the Supreme Court to enforce that right.\n(2) The Supreme Court may make such orders, issue such writs and give such directions, including the payment of compensation, as it considers appropriate to enforce the right.\nPart II – Fundamental Duties\n"
+      },
+      "art-007": {
+       "label": "Art. 7",
+       "kind": "art",
+       "text": "# Article 7. Fundamental duties\nEvery person has the following fundamental duties to himself and his descendants and to others –\n(a) to respect and to act in the spirit of the Constitution;\n(b) to recognise that he can fully develop his abilities and advance his true interests only by active participation in the development of the national community;\n(c) to exercise the rights guaranteed or conferred by the Constitution and to use the opportunities made available to him under it to participate fully in the government of the Republic of Vanuatu;\n(d) to protect the Republic of Vanuatu and to safeguard the national wealth, resources and environment in the interests of the present generation and of future generations;\n(e) to work according to his talents in socially useful employment and, if necessary, to create for himself legitimate opportunities for such employment;\n(f) to respect the rights and freedoms of others and to cooperate fully with others in the interests of interdependence and solidarity;\n(g) to contribute, as required by law, according to his means, to the revenues required for the advancement of the Republic of Vanuatu and the attainment of national objectives;\n(h) in the case of a parent, to support, assist and educate all his children, legitimate and illegitimate, and in particular to give them a true understanding of their fundamental rights and duties and of the national objectives and of the culture and customs of the people of Vanuatu;\n(i) in the case of a child, to respect his parents.\n"
+      },
+      "art-008": {
+       "label": "Art. 8",
+       "kind": "art",
+       "text": "# Article 8. Fundamental duties non-justiciable but public authorities to encourage compliance\nExcept as provided by law, the fundamental duties are non-justiciable. Nevertheless it is the duty of all public authorities to encourage compliance with them so far as lies within their respective powers.\nCHAPTER 3 – CITIZENSHIP\n"
+      },
+      "art-009": {
+       "label": "Art. 9",
+       "kind": "art",
+       "text": "# Article 9. Automatic citizens\nOn the Day of Independence the following persons shall automatically become citizens of Vanuatu –\n(a) a person who has or had four grandparents who belong to a tribe or community indigenous to Vanuatu; and\n(b) a person of ni-Vanuatu ancestry who has no citizenship, nationality or the status of an optant.\n"
+      },
+      "art-010": {
+       "label": "Art. 10",
+       "kind": "art",
+       "text": "# Article 10. Entitlement to citizenship\nEvery person who on the Day of Independence is a person of ni-Vanuatu ancestry and has the nationality or citizenship of a foreign state or the status of an optant shall become a citizen of Vanuatu if he makes an application, or an application is made on his behalf by his parent or lawful guardian, within 3 months of the Day of Independence or such longer period as Parliament may prescribe. The Vanuatu citizenship of such a person shall automatically lapse if he has not renounced his other citizenship or nationality within 3 months of the granting of Vanuatu citizenship or such longer period as Parliament may prescribe, except that in the case of a person under the age of 18 years the period of renunciation shall be 3 months after he has reached the age of 18 years.\n"
+      },
+      "art-011": {
+       "label": "Art. 11",
+       "kind": "art",
+       "text": "# Article 11. Persons born after day of independence\nAnyone born after the Day of Independence, whether in Vanuatu or abroad, shall become a citizen of Vanuatu if at least one of his parents is a citizen of Vanuatu.\n"
+      },
+      "art-012": {
+       "label": "Art. 12",
+       "kind": "art",
+       "text": "# Article 12. Naturalisation\nA national of a foreign state or a stateless person may apply to be naturalised as a citizen of Vanuatu if he has lived continuously in Vanuatu for at least 10 years immediately before the date of the application.\nParliament may prescribe further conditions of the eligibility to apply for naturalisation and shall provide for the machinery to review and decide on applications for naturalisation.\n"
+      },
+      "art-013": {
+       "label": "Art. 13",
+       "kind": "art",
+       "text": "# Article 13. Avoidance of dual nationality\nThe Republic of Vanuatu does not recognise dual nationality. Any citizen of Vanuatu who is or becomes a citizen of another state shall cease to be a citizen of Vanuatu unless he renounces that other citizenship within 3 months of acquiring Vanuatu citizenship or that other citizenship, as the case may be, or such longer period as Parliament may prescribe, except that in the case of a person under the age of 18 years the period of renunciation shall be 3 months after he has reached the age of 18 years.\n"
+      },
+      "art-014": {
+       "label": "Art. 14",
+       "kind": "art",
+       "text": "# Article 14. Further provision for citizenship\nParliament may make provision for the acquisition of citizenship of Vanuatu by persons not covered in the preceding Articles of this Chapter and may make provision for the deprivation and renunciation of citizenship of Vanuatu.\nCHAPTER 4 – PARLIAMENT\n"
+      },
+      "art-015": {
+       "label": "Art. 15",
+       "kind": "art",
+       "text": "# Article 15. Parliament\nThe legislature shall consist of a single chamber which shall be known as Parliament.\n"
+      },
+      "art-016": {
+       "label": "Art. 16",
+       "kind": "art",
+       "text": "# Article 16. Power to make laws\n(1) Parliament may make laws for the peace, order and good government of Vanuatu.\n(2) Parliament shall make laws by passing bills introduced either by one or more members or by the Prime Minister or a Minister.\n(3) When a bill has been passed by Parliament it shall be presented to the President of the Republic who shall assent to it within 2 weeks.\n(4) If the President considers that the bill is inconsistent with a provision of the Constitution he shall refer it to the Supreme Court for its opinion. The bill shall not be promulgated if the Supreme Court considers it inconsistent with a provision of the Constitution.\n"
+      },
+      "art-017": {
+       "label": "Art. 17",
+       "kind": "art",
+       "text": "# Article 17. Election of members of Parliament\n(1) Parliament shall consist of members elected on the basis of universal franchise through an electoral system which includes an element of proportional representation so as to ensure fair representation of different political groups and opinions.\n(2) Subject to such conditions or restrictions as may be prescribed by Parliament every citizen of Vanuatu who is at least 25 years of age shall be eligible to stand for election to Parliament.\n"
+      },
+      "art-018": {
+       "label": "Art. 18",
+       "kind": "art",
+       "text": "# Article 18. Electoral Commission\n(1) There shall be an Electoral Commission consisting of a chairman and two members appointed by the President of the Republic acting in accordance with the advice of the Judicial Service Commission.\n(2) The following persons shall not be qualified for appointment as chairman or member of the Commission –\n(a) a member of or a candidate for election to Parliament;\n(b) a member of or a candidate for election to local government or municipal councils;\n(c) a member of or a candidate for election to the National Council of Chiefs;\n(d) any person who exercises any position of responsibility in a political party.\n(3) A chairman or a member of the Commission shall vacate his office –\n(a) at the expiration of 5 years from the date of his appointment; or\n(b) if any circumstances arise that, if he were not a member of the Commission, would cause him to be disqualified for appointment as such.\n"
+      },
+      "art-019": {
+       "label": "Art. 19",
+       "kind": "art",
+       "text": "# Article 19. Principal Electoral Officer\nThere shall be a Principal Electoral Officer who shall be a public servant.\n"
+      },
+      "art-020": {
+       "label": "Art. 20",
+       "kind": "art",
+       "text": "# Article 20. Functions of Electoral Commission and Principal Electoral Officer\n(1) The Electoral Commission shall have general responsibility for and shall supervise the registration of electors and the conduct of elections to Parliament, the National Council of Chiefs, local government and municipal councils. The Commission shall have such powers and functions relating to such registration and elections as may be prescribed by Parliament.\n(2) The Principal Electoral Officer shall have such powers and functions relating to such registration and elections as may be prescribed by Parliament. The Principal Electoral Officer shall keep the Commission fully informed concerning the exercise of his functions and shall have the right to attend meetings of the Commission, and shall comply with any directions that the Commission may give to him in the exercise of his functions.\n(3) Every proposed bill and every proposed regulation or other instrument having the force of law relating to the registration of electors for the election of members of Parliament, the National Council of Chiefs, local government and municipal councils or to the election of such members shall be referred to the Commission and to the Principal Electoral Officer at such time as shall give them sufficient opportunity to make comments on it before the bill is introduced in Parliament or, as the case may be, before the regulation or instrument is made.\n(4) The Electoral Commission may lay before Parliament such reports concerning the matters under their supervision, or any draft bill or instrument that is referred to them, as they may think fit.\n"
+      },
+      "art-021": {
+       "label": "Art. 21",
+       "kind": "art",
+       "text": "# Article 21. Procedure of Parliament\n(1) Parliament shall meet twice a year in ordinary session.\n(2) Parliament may meet in extraordinary session at the request of the majority of its members, the Speaker or the Prime Minister.\n(3) Unless otherwise provided in the Constitution, Parliament shall make its decisions by public vote by a simple majority of the members voting.\n(4) Unless otherwise provided in the Constitution, the quorum shall be two-thirds of the members of Parliament. If there is no such quorum at the first sitting in any session Parliament shall meet 3 days later, and a simple majority of members shall then constitute a quorum.\n(5) Parliament shall make its own rules of procedure.\n"
+      },
+      "art-022": {
+       "label": "Art. 22",
+       "kind": "art",
+       "text": "# Article 22. Speaker and Deputy Speakers\n(1) At its first sitting after any general election Parliament shall elect a Speaker and one or more Deputy Speakers.\n(2) The Speaker shall preside at sittings of Parliament and shall be responsible for maintaining order.\n(3) The functions of Speaker may be exercised by a Deputy Speaker.\n"
+      },
+      "art-023": {
+       "label": "Art. 23",
+       "kind": "art",
+       "text": "# Article 23. Committees\nParliament may establish committees and appoint members to them.\n"
+      },
+      "art-024": {
+       "label": "Art. 24",
+       "kind": "art",
+       "text": "# Article 24. Proceedings to be public\nUnless otherwise provided proceedings of Parliament shall be held in public.\n"
+      },
+      "art-025": {
+       "label": "Art. 25",
+       "kind": "art",
+       "text": "# Article 25. Public finance\n(1) Every year the Government shall present a bill for a budget to Parliament for its approval.\n(2) No taxation shall be imposed or altered and no expenditure of public funds shall be incurred except by or under a law passed by Parliament.\n(3) No motion for the levying or increase of taxation or for the expenditure of public funds shall be introduced unless it is supported by the Government.\n(4) Parliament shall provide for the office of Auditor-General, who shall be appointed by the Public Service Commission on its own initiative.\n(5) The function of the Auditor-General shall be to audit and report to Parliament and the Government on the public accounts of Vanuatu.\n(6) The Auditor-General shall not be subject to the direction or control of any other person or body in the exercise of his functions.\n"
+      },
+      "art-026": {
+       "label": "Art. 26",
+       "kind": "art",
+       "text": "# Article 26. Ratification of treaties\nTreaties negotiated by the Government shall be presented to Parliament for ratification when they –\n(a) concern international organisations, peace or trade;\n(b) commit the expenditure of public funds;\n(c) affect the status of people;\n(d) require amendment of the laws of the Republic of Vanuatu; or\n(e) provide for the transfer, exchange or annexing of territory.\n"
+      },
+      "art-027": {
+       "label": "Art. 27",
+       "kind": "art",
+       "text": "# Article 27. Privileges of members\n(1) No member of Parliament may be arrested, detained, prosecuted or proceeded against in respect of opinions given or votes cast by him in Parliament in the exercise of his office.\n(2) No member may, during a session of Parliament or of one of its committees, be arrested or prosecuted for any offence, except with the authorisation of Parliament in exceptional circumstances.\n"
+      },
+      "art-028": {
+       "label": "Art. 28",
+       "kind": "art",
+       "text": "# Article 28. Life of Parliament\n(1) Parliament, unless sooner dissolved under paragraph (2) or (3), shall continue for 4 years from the date of its election.\n(2) Parliament may at any time decide, by resolution supported by the votes of an absolute majority of the members at a special sitting when at least three-fourths of the members are present, to dissolve Parliament. At least 1 week's notice of such a motion shall be given to the Speaker before the debate and the vote on it.\n(3) The President of the Republic may, on the advice of the Council of Ministers, dissolve Parliament.\n(4) General elections shall be held not earlier than 30 days and not later than 60 days after any dissolution.\n(5) There shall be no dissolution of Parliament within 12 months of the general elections following a dissolution under subarticle (2) or (3).\nCHAPTER 5 – NATIONAL COUNCIL OF CHIEFS\n"
+      },
+      "art-029": {
+       "label": "Art. 29",
+       "kind": "art",
+       "text": "# Article 29. National Council of Chiefs\n(1) The National Council of Chiefs shall be composed of custom chiefs elected by their peers sitting in District Councils of Chiefs.\n(2) The Council shall make its own rules of procedure.\n(3) The Council shall hold at least one meeting a year. Further meetings may be held at the request of the Council, Parliament, or the Government.\n(4) During the first sitting following its election the Council shall elect its Chairman.\n"
+      },
+      "art-030": {
+       "label": "Art. 30",
+       "kind": "art",
+       "text": "# Article 30. Functions of Council\n(1) The National Council of Chiefs has a general competence to discuss all matters relating to custom and tradition and may make recommendations for the preservation and promotion of ni-Vanuatu culture and languages.\n(2) The Council may be consulted on any question, particularly any question relating to tradition and custom, in connection with any bill before Parliament.\n"
+      },
+      "art-031": {
+       "label": "Art. 31",
+       "kind": "art",
+       "text": "# Article 31. Organisation of Council and role of chiefs\nParliament shall by law provide for the organisation of the National Council of Chiefs and in particular for the role of chiefs at the village, island and district level.\n"
+      },
+      "art-032": {
+       "label": "Art. 32",
+       "kind": "art",
+       "text": "# Article 32. Privileges of members of Council\n(1) No member of the National Council of Chiefs may be arrested, detained, prosecuted or proceeded against in respect of opinions given or votes cast by him in the Council in the exercise of his office.\n(2) No member may, during a session of the Council or of one of its committees, be arrested or prosecuted for any offence, except with the authorisation of the Council in exceptional circumstances.\nCHAPTER 6 – HEAD OF STATE\n"
+      },
+      "art-033": {
+       "label": "Art. 33",
+       "kind": "art",
+       "text": "# Article 33. President of the Republic\nThe head of the Republic shall be known as the President and shall symbolise the unity of the nation.\n"
+      },
+      "art-034": {
+       "label": "Art. 34",
+       "kind": "art",
+       "text": "# Article 34. Election of President\n(1) The President of the Republic shall be elected, in accordance with Schedule 1, by secret ballot by an electoral college consisting of Parliament and the chairmen of Local Government Councils.\n(2) When a vacancy in the office of the President of the Republic arises, election to that office shall be held within 3 weeks of the vacancy arising, or in the event of a vacancy arising when Parliament is dissolved, within 3 weeks after the first meeting of the new Parliament.\n"
+      },
+      "art-035": {
+       "label": "Art. 35",
+       "kind": "art",
+       "text": "# Article 35. Qualifications for election as President\nAny indigenous Vanuatu citizen qualified to be elected to Parliament shall be eligible for election as President of the Republic.\n"
+      },
+      "art-036": {
+       "label": "Art. 36",
+       "kind": "art",
+       "text": "# Article 36. Term of office and removal of President\n(1) The term of office of the President of the Republic shall be 5 years.\n(2) The President of the Republic may be removed from office, only for gross misconduct or incapacity, by the electoral college provided for in Article 34 on a motion introduced by at least one-third of the members of the college and passed by at least two-thirds of its members, when at least three-fourths of its members, including at least three-fourths of the chairmen of the Local Government Councils, are present.\n(3) At least 2 weeks' notice of the motion provided for in subarticle (2) shall be given to the Speaker.\n(4) If there is no quorum at the first sitting as provided in subarticle (2), the electoral college may meet and vote on the motion provided for in subarticle (2) a week later even if there is only a quorum of two-thirds of the members of the college.\n"
+      },
+      "art-037": {
+       "label": "Art. 37",
+       "kind": "art",
+       "text": "# Article 37. Speaker to act as President\n(1) Whenever there is a vacancy in the office of the President of the Republic or the President is overseas or incapacitated, the Speaker of Parliament shall perform the functions of President under this Constitution and any other law.\n(2) When Parliament is dissolved and there is a vacancy in the office of the President of the Republic or the President is overseas or incapacitated, the Speaker of Parliament at the time of the dissolution shall perform the functions of the President of the Republic under this Constitution and any other law until a new Speaker is elected.\n"
+      },
+      "art-038": {
+       "label": "Art. 38",
+       "kind": "art",
+       "text": "# Article 38. Presidential powers of pardon, commutation and reduction of sentences\nThe President of the Republic may pardon, commute or reduce a sentence imposed on a person convicted of an offence. Parliament may provide for a committee to advise the President in the exercise of this function.\nCHAPTER 7 – THE EXECUTIVE\n"
+      },
+      "art-039": {
+       "label": "Art. 39",
+       "kind": "art",
+       "text": "# Article 39. Executive power\n(1) The executive power of the people of the Republic of Vanuatu is vested in the Prime Minister and Council of Ministers and shall be exercised as provided by the Constitution or a law.\n(2) The Prime Minister shall keep the President of the Republic fully informed concerning the general conduct of the government of the Republic.\n(3) The President of the Republic may refer to the Supreme Court any regulation which he considers to be inconsistent with the Constitution.\n"
+      },
+      "art-040": {
+       "label": "Art. 40",
+       "kind": "art",
+       "text": "# Article 40. Council of Ministers\n(1) There shall be a Council of Ministers which shall consist of the Prime Minister and other Ministers.\n(2) The number of Ministers, including the Prime Minister, shall not exceed a quarter of the number of members of Parliament.\n"
+      },
+      "art-041": {
+       "label": "Art. 41",
+       "kind": "art",
+       "text": "# Article 41. Election of Prime Minister\nThe Prime Minister shall be elected by Parliament from among its members by secret ballot in accordance with the rules in Schedule 2.\n"
+      },
+      "art-042": {
+       "label": "Art. 42",
+       "kind": "art",
+       "text": "# Article 42. Appointment and removal of other Ministers\n(1) The Prime Minister shall appoint the other Ministers from among the members of Parliament and may designate one of them as Deputy Prime Minister.\n(2) The Prime Minister shall assign responsibilities for the conduct of government to the Ministers.\n(3) The Prime Minister may remove the Ministers from office.\n"
+      },
+      "art-043": {
+       "label": "Art. 43",
+       "kind": "art",
+       "text": "# Article 43. Collective responsibility of Ministers and votes of no confidence\n(1) The Council of Ministers shall be collectively responsible to Parliament.\n(2) Parliament may pass a motion of no confidence in the Prime Minister. At least 1 week's notice of such a motion shall be given to the Speaker and the motion must be signed by one-sixth of the members of Parliament. If it is supported by an absolute majority of the members of Parliament, the Prime Minister and other Ministers shall cease to hold office forthwith but shall continue to exercise their functions until a new Prime Minister is elected.\n"
+      },
+      "art-044": {
+       "label": "Art. 44",
+       "kind": "art",
+       "text": "# Article 44. Termination of office of Ministers\nThe Council of Ministers shall cease to hold office whenever the Prime Minister resigns or dies but shall continue to exercise their functions until a new Prime Minister is elected. In the case of the death of the Prime Minister, the Deputy Prime Minister, or if there is no Deputy Prime Minister a Minister appointed by the President of the Republic, shall act as Prime Minister until a new Prime Minister is elected.\n"
+      },
+      "art-045": {
+       "label": "Art. 45",
+       "kind": "art",
+       "text": "# Article 45. Other times when a Minister ceases to hold office\nA Minister, including the Prime Minister, shall also cease to hold office –\n(a) when, after a general election, Parliament meets to elect a new Prime Minister;\n(b) if he ceases to be a member of Parliament for any reason other than a dissolution of Parliament; or\n(c) if he is elected as President of the Republic or as Speaker of Parliament.\n"
+      },
+      "art-046": {
+       "label": "Art. 46",
+       "kind": "art",
+       "text": "# Article 46. Ministers to remain Members of Parliament\nMembers of Parliament who are appointed Ministers shall retain their membership of Parliament.\nCHAPTER 8 – JUSTICE\n"
+      },
+      "art-047": {
+       "label": "Art. 47",
+       "kind": "art",
+       "text": "# Article 47. The Judiciary\n(1) The administration of justice is vested in the judiciary, who are subject only to the Constitution and the law. The function of the judiciary is to resolve proceedings according to law. If there is no rule of law applicable to a matter before it, a court shall determine the matter according to substantial justice and whenever possible in conformity with custom.\n(2) Except for the Chief Justice the judiciary shall be appointed by the President of the Republic acting on the advice of the Judicial Service Commission.\n(3) All members of the judiciary shall hold office until they reach the age of retirement. They shall only be removed from office by the President of the Republic in the event of –\n(a) conviction and sentence on a criminal charge; or\n(b) a determination by the Judicial Service Commission of gross misconduct, incapacity or professional incompetence.\n(4) The promotion and transfer of members of the judiciary may only be made by the President of the Republic on the advice of the Judicial Service Commission.\n(5) Parliament may provide for the appointment by the President of the Republic, after consultation with the Judicial Service Commission, of acting judges for such periods as may be set out in their instruments of appointment.\n(6) Subarticle (3) so far as it relates to the removal from office shall apply to acting judges.\n"
+      },
+      "art-048": {
+       "label": "Art. 48",
+       "kind": "art",
+       "text": "# Article 48. The Judicial Service Commission\n(1) The Judicial Service Commission shall consist of the Minister responsible for justice, as Chairman, the Chief Justice, the Chairman of the Public Service Commission, and a representative of the National Council of Chiefs appointed by the Council.\n(2) The Judicial Service Commission shall not be subject to the direction or control of any other person or body in the exercise of its functions.\n"
+      },
+      "art-049": {
+       "label": "Art. 49",
+       "kind": "art",
+       "text": "# Article 49. The Supreme Court, the Chief Justice and other judges\n(1) The Supreme Court has unlimited jurisdiction to hear and determine any civil or criminal proceedings, and such other jurisdiction and powers as may be conferred on it by the Constitution or by law.\n(2) The Supreme Court shall consist of a Chief Justice and three other judges.\n(3) The Chief Justice shall be appointed by the President of the Republic after consultation with the Prime Minister and the Leader of the Opposition.\n(4) A person shall not be qualified for appointment as Chief Justice or other judge of the Supreme Court unless he is qualified to practise as a lawyer in Vanuatu.\n"
+      },
+      "art-050": {
+       "label": "Art. 50",
+       "kind": "art",
+       "text": "# Article 50. Appeals from Supreme Court to Court of Appeal\nParliament shall provide for appeals from the original jurisdiction of the Supreme Court and may provide for appeals from such appellate jurisdiction as it may have to a Court of Appeal which shall be constituted by two or more judges of the Supreme Court sitting together.\n"
+      },
+      "art-051": {
+       "label": "Art. 51",
+       "kind": "art",
+       "text": "# Article 51. Ascertainment of rules of custom\nParliament may provide for the manner of the ascertainment of relevant rules of custom, and may in particular provide for persons knowledgeable in custom to sit with the judges of the Supreme Court or the Court of Appeal and take part in its proceedings.\n"
+      },
+      "art-052": {
+       "label": "Art. 52",
+       "kind": "art",
+       "text": "# Article 52. Village and Island Courts\nParliament shall provide for the establishment of village or island courts with jurisdiction over customary and other matters and shall provide for the role of chiefs in such courts.\n"
+      },
+      "art-053": {
+       "label": "Art. 53",
+       "kind": "art",
+       "text": "# Article 53. Application to Supreme Court regarding infringements of Constitution\n(1) Anyone who considers that a provision of the Constitution has been infringed in relation to him may, without prejudice to any other legal remedy available to him, apply to the Supreme Court for redress.\n(2) The Supreme Court has jurisdiction to determine the matter and to make such order as it considers appropriate to enforce the provisions of the Constitution.\n(3) When a question concerning the interpretation of the Constitution arises before a subordinate court, and the court considers that the question concerns a fundamental point of law, the court shall submit the question to the Supreme Court for its determination.\n"
+      },
+      "art-054": {
+       "label": "Art. 54",
+       "kind": "art",
+       "text": "# Article 54. Election disputes\nThe jurisdiction to hear and determine any question as to whether a person has been validly elected as a member of Parliament, the National Council of Chiefs, and a Local Government Council or whether he has vacated his seat or has become disqualified to hold it shall vest in the Supreme Court.\n"
+      },
+      "art-055": {
+       "label": "Art. 55",
+       "kind": "art",
+       "text": "# Article 55. Public Prosecutor\nThe function of prosecution shall vest in the Public Prosecutor, who shall be appointed by the President of the Republic on the advice of the Judicial Service Commission. He shall not be subject to the direction or control of any other person or body in the exercise of his functions.\n"
+      },
+      "art-056": {
+       "label": "Art. 56",
+       "kind": "art",
+       "text": "# Article 56. Public Solicitor\nParliament shall provide for the office of the Public Solicitor, appointed by the President of the Republic on the advice of the Judicial Service Commission, whose function shall be to provide legal assistance to needy persons.\nCHAPTER 9 – ADMINISTRATION\nPart I – The Public Service\n"
+      },
+      "art-057": {
+       "label": "Art. 57",
+       "kind": "art",
+       "text": "# Article 57. Public servants\n(1) Public servants owe their allegiance to the Constitution and to the people of Vanuatu.\n(2) Only citizens of Vanuatu shall be appointed to public office. The Public Service Commission shall determine other qualifications for appointment to the public service.\n(3) No appointment shall be made to a post that has not been created in accordance with a law.\n(4) The Prime Minister or the chairman of a Local Government Council may, exceptionally, make provision for the recruitment of staff for a specified period to meet unforeseen needs.\nIn urgent cases, the Public Service Commission may, after consulting the Ministers responsible for finance and public administration, make such a decision instead of the Prime Minister.\n(5) For as long as their posts exist, public servants shall not be removed from their posts except in accordance with the Constitution.\n(6) Public servants shall be given increments in their salary in accordance with the law.\n(7) Public servants shall leave the public service upon reaching retirement age or upon being dismissed by the Public Service Commission. They shall not be demoted without consultation with the Public Service Commission.\n(8) The security of tenure of public servants provided for in subarticle (5) shall not prevent such compulsory early retirement as may be decided by law in order to ensure the renewal of holders of public offices.\n"
+      },
+      "art-058": {
+       "label": "Art. 58",
+       "kind": "art",
+       "text": "# Article 58. Exclusion of security of tenure in relation to political advisers and transfer of public servants\n(1) The rule of security of tenure provided for in Article 57(5) shall not apply to the personal political advisers of the Prime Minister and Ministers.\n(2) Senior public servants in Ministries may be transferred by the Prime Minister to other posts of equivalent rank.\n"
+      },
+      "art-059": {
+       "label": "Art. 59",
+       "kind": "art",
+       "text": "# Article 59. Membership of Public Service Commission\n(1) The Public Service Commission shall be composed of five members appointed for 3 years by the President of the Republic after consultation with the Prime Minister.\n(2) The President of the Republic shall appoint every year, from among the members of the Commission, a chairman who shall be responsible for organising its proceedings.\n(3) A person shall be disqualified for appointment as a member of the Commission if he is a member of Parliament, the National Council of Chiefs or a Local Government Council or if he exercises a position of responsibility within a political party.\n(4) A person shall cease to be a member of the Commission if circumstances arise that, if he were not a member, would disqualify him for appointment as such.\n"
+      },
+      "art-060": {
+       "label": "Art. 60",
+       "kind": "art",
+       "text": "# Article 60. Functions of Public Service Commission\n(1) The Public Service Commission shall be responsible for the appointment and promotion of public servants, and the selection of those to undergo training courses in Vanuatu or overseas. For such purposes it may organise competitive examinations.\n(2) The Commission shall also be responsible for the discipline of public servants.\n(3) The Commission shall have no authority over the members of the judiciary, the armed forces, the police and the teaching services.\n(4) The Commission shall not be subject to the direction or control of any other person or body in the exercise of its functions.\nPart II – The Ombudsman\n"
+      },
+      "art-061": {
+       "label": "Art. 61",
+       "kind": "art",
+       "text": "# Article 61. Ombudsman\n(1) The Ombudsman shall be appointed, for 5 years, by the President of the Republic after consultation with the Prime Minister, the Speaker of Parliament, the leaders of the political parties represented in Parliament, the chairman of the National Council of Chiefs, the chairmen of the Local Government Councils, and the chairmen of the Public Service Commission and the Judicial Service Commission.\n(2) A person shall be disqualified for appointment as Ombudsman if he is a member of Parliament, the National Council of Chiefs or a Local Government Council, if he holds any other public office, or if he exercises a position of responsibility within a political party.\n(3) A person shall cease to be Ombudsman if circumstances arise that, if he were not the Ombudsman, would disqualify him for appointment as such.\n"
+      },
+      "art-062": {
+       "label": "Art. 62",
+       "kind": "art",
+       "text": "# Article 62. Enquiries by Ombudsman\n(1) The Ombudsman may enquire into the conduct of any person or body to which this Article applies –\n(a) upon receiving a complaint from a member of the public (or, if for reasons of incapacity, from his representative or a member of his family) who claims to have been the victim of an injustice as a result of particular conduct;\n(b) at the request of a Minister, a member of Parliament, of the National Council of Chiefs or of a Local Government Council; or\n(c) of his own initiative.\n(2) This Article shall apply to all public servants, public authorities and ministerial departments, with the exception of the President of the Republic, the Judicial Service Commission, the Supreme Court and other judicial bodies.\n(3) The Ombudsman may request any Minister, public servant, administrator, authority concerned or any person likely to assist him, to furnish him with information and documents needed for his enquiry.\n(4) The Ombudsman shall grant the person or body complained of an opportunity to reply to the complaints made against them.\n(5) The enquiries of the Ombudsman shall be conducted in private.\n"
+      },
+      "art-063": {
+       "label": "Art. 63",
+       "kind": "art",
+       "text": "# Article 63. Findings of the Ombudsman and reports\n(1) Wherever, after due enquiry, the Ombudsman concludes that a complaint is unjustified, he shall so inform the complainant and the Prime Minister and the head of the public department or authority concerned.\n(2) Wherever, after due enquiry, the Ombudsman concludes that conduct was contrary to the law, based on error of law or of fact, delayed for unjustified reasons, or unjust or blatantly unreasonable and that, consequently, any decision taken should be annulled or changed or that any practice followed should be revised, he shall forward his findings to the Prime Minister and to the head of the public authority or department directly concerned.\n(3) The report of the Ombudsman shall be public unless he decides to keep the report, or parts of it, confidential to the Prime Minister and the person in charge of the relevant public service, on the grounds of public security or public interest. The complainant shall in any case be told of the findings of the Ombudsman.\n(4) The Prime Minister or the person in charge of the relevant public service shall decide upon the findings of the Ombudsman within a reasonable time and the decision, with reasons, shall be given to the complainant forthwith. Any period limiting the time in which legal proceedings may be commenced shall not begin to run until the complainant has received the decision.\n(5) The Ombudsman shall present a general report to Parliament each year and may make such additional reports as he considers necessary concerning the discharge of his functions and action taken or his findings. He may draw the attention of Parliament to any defects which appear to him to exist in the administration.\n"
+      },
+      "art-064": {
+       "label": "Art. 64",
+       "kind": "art",
+       "text": "# Article 64. Right of a citizen to services in own language\n(1) A citizen of Vanuatu may obtain, in the official language that he uses, the services which he may rightfully expect from the administration of the Republic of Vanuatu.\n(2) Where a citizen considers that there has been a breach of subarticle (1) he may make a complaint to the Ombudsman who shall conduct an enquiry in accordance with Articles 62 and 63.\n(3) The Ombudsman shall, each year, make a special report to Parliament concerning the observance of multilingualism and the measures likely to ensure its respect.\n"
+      },
+      "art-065": {
+       "label": "Art. 65",
+       "kind": "art",
+       "text": "# Article 65. Ombudsman not subject to direction or control\nThe Ombudsman shall not be subject to the direction or control of any other person or body in the exercise of his functions.\nCHAPTER 10 – LEADERSHIP CODE\n"
+      },
+      "art-066": {
+       "label": "Art. 66",
+       "kind": "art",
+       "text": "# Article 66. Conduct of leaders\n(1) Any person defined as a leader in Article 67 has a duty to conduct himself in such a way, both in his public and private life, so as not to –\n(a) place himself in a position in which he has or could have a conflict of interests or in which the fair exercise of his public or official duties might be compromised;\n(b) demean his office or position;\n(c) allow his integrity to be called into question; or\n(d) endanger or diminish respect for and confidence in the integrity of the Government of the Republic of Vanuatu.\n(2) In particular, a leader shall not use his office for personal gain or enter into any transaction or engage in any enterprise or activity that might be expected to give rise to doubt in the public mind as to whether he is carrying out or has carried out the duty imposed by subarticle (1).\n"
+      },
+      "art-067": {
+       "label": "Art. 67",
+       "kind": "art",
+       "text": "# Article 67. Definition of a leader\nFor the purposes of this Chapter, a leader means the President of the Republic, the Prime Minister and other Ministers, Members of Parliament, and such public servants, officers of Government agencies and other officers as may be prescribed by law.\n"
+      },
+      "art-068": {
+       "label": "Art. 68",
+       "kind": "art",
+       "text": "# Article 68. Parliament to give effect to this Chapter\nParliament shall by law give effect to the principles of this Chapter.\nCHAPTER 11 – EMERGENCY POWERS\n"
+      },
+      "art-069": {
+       "label": "Art. 69",
+       "kind": "art",
+       "text": "# Article 69. Emergency regulations\nThe Council of Ministers may make regulations for dealing with a public emergency whenever –\n(a) the Republic of Vanuatu is at war; or\n(b) the President of the Republic acting on the advice of the Council of Ministers declares a state of emergency by reason of natural calamity or to prevent a threat to or to restore public order.\n"
+      },
+      "art-070": {
+       "label": "Art. 70",
+       "kind": "art",
+       "text": "# Article 70. Period of and renewals of state of emergency\n(1) When Parliament is in session a state of emergency declared under Article 69 shall cease to have effect at the end of 1 week unless approved by a resolution of Parliament supported by two-thirds of its members.\n(2) When Parliament is not in session a state of emergency shall cease to have effect at the end of 2 weeks.\n(3) Where a resolution has been passed in accordance with subarticle (1) the state of emergency approved by it shall remain in force for the period authorised by the resolution except that no such resolution may authorise a state of emergency for more than 3 months at one time.\n(4) Parliament may meet whenever it decides during a state of emergency.\n(5) Parliament may not be dissolved under Article 28(2) or 28(3) during a state of emergency. If the life of a Parliament ends in accordance with Article 28(1) during a state of emergency the former members of that Parliament may meet for the purpose only of considering the state of emergency until the new Parliament first meets.\n(6) Parliament may at any time terminate a state of emergency by a resolution supported by an absolute majority of its members.\n"
+      },
+      "art-071": {
+       "label": "Art. 71",
+       "kind": "art",
+       "text": "# Article 71. Effect of emergency regulations\n(1) Subject to subarticle (2) regulations made by the Council of Ministers in accordance with Article 69 shall have effect notwithstanding the provisions of Chapter 2, Part I except that no regulation shall –\n(a) derogate from the right to life and the freedom from inhuman treatment and forced labour; and\n(b) make provision for the detention of a person without trial for more than 1 month unless such person is an enemy alien.\n(2) Regulations made by the Council of Ministers in accordance with Article 69 shall be such as are reasonably necessary in the circumstances of the emergency to which they relate and as are justifiable in a democratic society.\n"
+      },
+      "art-072": {
+       "label": "Art. 72",
+       "kind": "art",
+       "text": "# Article 72. Complaints to Supreme Court concerning emergency regulations\nAny citizen aggrieved by reason of regulations made by the Council of Ministers in accordance with Article 69 may complain to the Supreme Court which shall have jurisdiction to determine the validity of all or any of such regulations.\nCHAPTER 12 – LAND\n"
+      },
+      "art-073": {
+       "label": "Art. 73",
+       "kind": "art",
+       "text": "# Article 73. Land belongs to custom owners\nAll land in the Republic of Vanuatu belongs to the indigenous custom owners and their descendants.\n"
+      },
+      "art-074": {
+       "label": "Art. 74",
+       "kind": "art",
+       "text": "# Article 74. Basis of ownership and use\nThe rules of custom shall form the basis of ownership and use of land in the Republic of Vanuatu.\n"
+      },
+      "art-075": {
+       "label": "Art. 75",
+       "kind": "art",
+       "text": "# Article 75. Perpetual ownership\nOnly indigenous citizens of the Republic of Vanuatu who have acquired their land in accordance with a recognised system of land tenure shall have perpetual ownership of their land.\n"
+      },
+      "art-076": {
+       "label": "Art. 76",
+       "kind": "art",
+       "text": "# Article 76. National land law\nParliament, after consultation with the National Council of Chiefs, shall provide for the implementation of Articles 73, 74 and 75 in a national land law and may make different provision for different categories of land, one of which shall be urban land.\n"
+      },
+      "art-077": {
+       "label": "Art. 77",
+       "kind": "art",
+       "text": "# Article 77. Compensation\nParliament shall prescribe such criteria for the assessment of compensation and the manner of its payment as it deems appropriate to persons whose interests are adversely affected by legislation under this Chapter.\n"
+      },
+      "art-078": {
+       "label": "Art. 78",
+       "kind": "art",
+       "text": "# Article 78. Disputes\n(1) Where, consequent on the provisions of this Chapter, there is a dispute concerning the ownership of alienated land, the Government shall hold such land until the dispute is resolved.\n(2) The Government shall arrange for the appropriate customary institutions or procedures to resolve disputes concerning the ownership of custom land.\n"
+      },
+      "art-079": {
+       "label": "Art. 79",
+       "kind": "art",
+       "text": "# Article 79. Land transactions\n(1) Notwithstanding Articles 73, 74 and 75 land transactions between an indigenous citizen and either a non-indigenous citizen or a non-citizen shall only be permitted with the consent of the Government.\n(2) The consent required under subarticle (1) shall be given unless the transaction is prejudicial to the interests of –\n(a) the custom owner or owners of the land;\n(b) the indigenous citizen where he is not the custom owner;\n(c) the community in whose locality the land is situated; or\n(d) the Republic of Vanuatu.\n"
+      },
+      "art-080": {
+       "label": "Art. 80",
+       "kind": "art",
+       "text": "# Article 80. Government may own land\nNotwithstanding Articles 73 and 74 the Government may own land acquired by it in the public interest.\n"
+      },
+      "art-081": {
+       "label": "Art. 81",
+       "kind": "art",
+       "text": "# Article 81. Redistribution of land\n(1) Notwithstanding Articles 73 and 74 the Government may buy land from custom owners for the purpose of transferring ownership of it to indigenous citizens or indigenous communities from over-populated islands.\n(2) When redistributing land in accordance with subarticle (1), the Government shall give priority to ethnic, linguistic, customary and geographical ties.\nCHAPTER 13 – DECENTRALISATION\n"
+      },
+      "art-082": {
+       "label": "Art. 82",
+       "kind": "art",
+       "text": "# Article 82. Legislation for decentralisation\nThe Republic of Vanuatu, conscious of the importance of decentralisation to enable the people fully to participate in the government of their Local Government Region, shall enact legislation necessary to realize that ideal.\n"
+      },
+      "art-083": {
+       "label": "Art. 83",
+       "kind": "art",
+       "text": "# Article 83. Local Government Councils\nThe legislation shall provide for the division of the Republic of Vanuatu into Local Government Regions and for each region to be administered by a Local Government Council on which shall be representatives of custom chiefs.\nCHAPTER 14 – AMENDMENT OF THE CONSTITUTION\n"
+      },
+      "art-084": {
+       "label": "Art. 84",
+       "kind": "art",
+       "text": "# Article 84. Bills for amendment of Constitution\nA bill for an amendment of the Constitution may be introduced either by the Prime Minister or any other member of Parliament.\n"
+      },
+      "art-085": {
+       "label": "Art. 85",
+       "kind": "art",
+       "text": "# Article 85. Procedure for passing Constitutional amendments\nA bill for an amendment of the Constitution shall not come into effect unless it is supported by the votes of no less than two-thirds of all the members of Parliament at a special sitting of Parliament at which three-quarters of the members are present. If there is no such quorum at the first sitting, Parliament may meet and make a decision by the same majority a week later even if only two-thirds of the members are present.\n"
+      },
+      "art-086": {
+       "label": "Art. 86",
+       "kind": "art",
+       "text": "# Article 86. Amendments requiring support of referendums\nA bill for an amendment of a provision of the Constitution regarding the status of Bislama, English and French, the electoral system, or the parliamentary system, passed by Parliament under Article 85, shall not come into effect unless it has been supported in a national referendum.\nCHAPTER 15 – TRANSITIONAL PROVISIONS\n"
+      },
+      "art-087": {
+       "label": "Art. 87",
+       "kind": "art",
+       "text": "# Article 87. First President of the Republic\nNotwithstanding Chapter 6 the first President of the Republic shall –\n(a) be such person as shall have been elected prior to the Day of Independence by an electoral college constituted for that purpose by the Representative Assembly sitting with the Presidents of the Regional Councils if then established;\n(b) assume office on the Day of Independence and hold office in accordance with the provisions of the Constitution.\n"
+      },
+      "art-088": {
+       "label": "Art. 88",
+       "kind": "art",
+       "text": "# Article 88. First Prime Minister and other Ministers\nThe persons who immediately before the Day of Independence hold office as Chief Minister or any other Minister shall as from that day hold office as Prime Minister or other Minister, as the case may be, as if they had been elected or appointed thereto under Chapter 7.\n"
+      },
+      "art-089": {
+       "label": "Art. 89",
+       "kind": "art",
+       "text": "# Article 89. First Parliament\n(1) The persons who immediately before the Day of Independence are members of the Representative Assembly shall on that day become members of Parliament and shall hold their seats in Parliament in accordance with the Constitution.\n(2) The person who immediately before the Day of Independence holds the office of Chairman of the Representative Assembly shall as from that day act in the office of Speaker of Parliament until a person is elected to hold that office.\n(3) The standing orders of the Representative Assembly in force immediately before the Day of Independence shall have effect as from that day as the standing orders of Parliament until modified or replaced under Article 21(5) but shall be construed with such adaptations as may be necessary to bring them into conformity with the Constitution.\n(4) Parliament shall, unless sooner dissolved, stand dissolved on the 14 November 1983.\n"
+      },
+      "art-090": {
+       "label": "Art. 90",
+       "kind": "art",
+       "text": "# Article 90. Existing offices\n(1) Subject to the other provisions of the Constitution, a person who immediately before the Day of Independence holds or acts in an office in the service of the Government of the Republic of Vanuatu shall, as from that day, hold or act in that office or the corresponding office established by or under the Constitution on the same terms and conditions as those on which he holds or acts in the office immediately before that day.\n(2) Subarticle (1) is without prejudice to the power of Parliament to provide for the compulsory retirement of non-citizen officers to promote localisation of offices.\n(3) Notwithstanding Article 57(2), until a citizen of Vanuatu is qualified for appointment to a public office a non-citizen may be appointed to that office but, except in the case of a judge of the Supreme Court, shall be appointed for a limited period.\n"
+      },
+      "art-091": {
+       "label": "Art. 91",
+       "kind": "art",
+       "text": "# Article 91. Judges of the Supreme Court\nNotwithstanding Chapter 8, any person who immediately before the Day of Independence holds office as a judge of the pre-Independence Supreme Court or of a District Court shall as from that day act in the office of judge of the Supreme Court until a substantive appointment is made to that office in accordance with Chapter 8. The President of the Republic may appoint one of them to act as Chief Justice until a substantive appointment is made to that office.\n"
+      },
+      "art-092": {
+       "label": "Art. 92",
+       "kind": "art",
+       "text": "# Article 92. Rights, liabilities and obligations\n(1) All rights, liabilities and obligations of the Government of the New Hebrides, whether arising out of contract or otherwise, shall, as from the Day of Independence, be rights, liabilities and obligations of the Republic of Vanuatu.\n(2) Nothing in subarticle (1) shall prevent the Government of the Republic of Vanuatu renegotiating rights, liabilities or obligations assumed under that subarticle.\n"
+      },
+      "art-093": {
+       "label": "Art. 93",
+       "kind": "art",
+       "text": "# Article 93. Electoral system\nAfter the general elections next following the Exchange of Notes providing for the entry into force of this Article, the Representative Assembly shall set up a Committee with equal representation of all political groups to make recommendations on an electoral system based on Article 17(1).\nThe recommendations of the Committee shall be included in a law enacted by Parliament by a two-thirds majority of its members at a special sitting of Parliament when at least three-fourths of the members are present. If there is no such quorum at the first sitting, Parliament may meet and make a decision by the same majority a week later even if only two-thirds of the members are present.\n"
+      },
+      "art-094": {
+       "label": "Art. 94",
+       "kind": "art",
+       "text": "# Article 94. Legal proceedings\nAll legal proceedings, whether civil or criminal, pending immediately before the Day of Independence before any court in Vanuatu shall be disposed of on and after that day in accordance with general or specific directions given by the Supreme Court subject to any law which may be enacted for that purpose.\n"
+      },
+      "art-095": {
+       "label": "Art. 95",
+       "kind": "art",
+       "text": "# Article 95. Existing law\n(1) Until otherwise provided by Parliament, all Joint Regulations and subsidiary legislation made thereunder in force immediately before the Day of Independence shall continue in operation on and after that day as if they had been made in pursuance of the Constitution and shall be construed with such adaptations as may be necessary to bring them into conformity with the Constitution.\n(2) Until otherwise provided by Parliament, the British and French laws in force or applied in Vanuatu immediately before the Day of Independence shall on and after that day continue to apply to the extent that they are not expressly revoked or incompatible with the independent status of Vanuatu and wherever possible taking due account of custom.\n(3) Customary law shall continue to have effect as part of the law of the Republic of Vanuatu.\n"
+      }
+     },
+     "credits": {},
+     "note": "Laws of the Republic of Vanuatu, Consolidated Edition 2006 (Acts 10 of 1980, 15 of 1981, 20 of 1983), as published by PacLII; dated by its earliest Internet Archive capture, 31 August 2006."
+    }
+   ]
+  }
+ ],
+ "applies": [],
+ "decisions": [
+  "English text built; French and Bislama official texts exist.",
+  "Phase 1 stub: the Constitution as in the Consolidated Edition 2006 is the oldest version available, credited to the publisher; it is dated 2006-08-31, the earliest Internet Archive capture of that edition on PacLII, because the edition carries no day of its own.",
+  "Not yet applied: Constitution (Fifth Amendment) Act 2006 (Act 24 of 2006), Constitution (Sixth)(Amendment) Act 2013 (Act 27 of 2013), and the Constitution (Eighth)(Amendment) Act No. 21 of 2023 approved at the 29 May 2024 referendum."
+ ],
+ "ai_use": [
+  "none: parsing is deterministic code; no model wrote or edited legal text."
+ ]
+}
