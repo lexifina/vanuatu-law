@@ -4,9 +4,9 @@ import re
 _DEST = {'fonttbl', 'colortbl', 'stylesheet', 'info', 'pict', 'header', 'footer', 'headerl', 'headerr', 'footerl',
          'footerr', 'headerf', 'footerf', 'listtable', 'listoverridetable', 'rsidtbl', 'latentstyles', 'datastore',
          'themedata', 'colorschememapping', 'xmlnstbl', 'generator', 'object', 'fldinst', 'filetbl', 'revtbl',
-         'pgdsctbl', 'operator', 'author', 'title', 'nonshppict', 'footnote', 'listtext', 'pntext', 'pntxta', 'pntxtb',
+         'pgdsctbl', 'operator', 'author', 'title', 'nonshppict', 'footnote', 'pntxta', 'pntxtb',
          'mmathPr', 'wgrffmtfilter', 'xe', 'tc', 'bkmkstart', 'bkmkend', 'shpinst', 'sp', 'falt', 'panose',
-         'pnseclvl', 'leveltext', 'levelnumbers', 'company', 'creatim', 'revtim', 'printim', 'buptim'}
+         'leveltext', 'levelnumbers', 'company', 'creatim', 'revtim', 'printim', 'buptim'}
 _SPECIAL = {'par': '\n', 'line': '\n', 'sect': '\n', 'page': '\n', 'cell': '\t', 'row': '\n', 'tab': '\t',
             'emdash': '\u2014', 'endash': '\u2013', 'lquote': '\u2018', 'rquote': '\u2019', 'ldblquote': '\u201c',
             'rdblquote': '\u201d', 'bullet': '\u2022'}
