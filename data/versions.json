@@ -1,0 +1,19 @@
+{
+ "country": "VU",
+ "acts": [
+  {
+   "slug": "constitution",
+   "short": "Constitution",
+   "title": "Constitution of the Republic of Vanuatu",
+   "url": "http://www.paclii.org/vu/legis/consol_act/cotrov406/",
+   "versions": [
+    {
+     "from": "2006-08-31",
+     "units": 96,
+     "source_url": "https://web.archive.org/web/20190826052414id_/http://www.paclii.org/vu/legis/consol_act/cotrov406.rtf",
+     "sha256": "e68b190175d069cba370dd2bcb7365ca83bc960f9716cd9a240357e4c6eeec11"
+    }
+   ]
+  }
+ ]
+}
