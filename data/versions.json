@@ -1,0 +1,19 @@
+{
+ "country": "VU",
+ "acts": [
+  {
+   "slug": "constitution",
+   "short": "Constitution",
+   "title": "Constitution of the Republic of Vanuatu",
+   "url": "https://parliament.gov.vu/images/constitution.pdf",
+   "versions": [
+    {
+     "from": "2020-04-29",
+     "units": 98,
+     "source_url": "https://parliament.gov.vu/images/constitution.pdf",
+     "sha256": "737c2b5fbe6aade481017149c7c682aa903e16cb19e3fbc4203cd8f315b646e7"
+    }
+   ]
+  }
+ ]
+}
