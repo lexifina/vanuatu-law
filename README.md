@@ -1,5 +1,7 @@
 # Vanuatu: law history in git
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Vanuatu's national law, which global-law reads at `vanuatu/national/acts/`.
+
 The law of Vanuatu as a git repository: one file per provision, and the law that made each change as the commit's author. It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law), which places it at `vu/`. The language is English, one of Vanuatu's three official languages with Bislama and French.
 
 **What is in it now**
